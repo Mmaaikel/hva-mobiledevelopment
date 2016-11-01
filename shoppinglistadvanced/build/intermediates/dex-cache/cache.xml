@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_a9870df9a088029439a61e1e528ea04e896e8889/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_b11a6eefda30bca9ce1851ed9e8c9eb08b982fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e2d7423026405e86b5e62d7ede994214a88dc2d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_d8262e0532a92cd07825f1da2b742b269185f5a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2661456ccf655d7b31efabcac0626971e7df61c">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b87878844b5226b9f1b333683f6db9ffd2fb1936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_70a3e375376b7f35b4492cf91b585b95290f2ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f2b59ae711df0a956bd23df44bdd3c9176238a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_33a63afb592e13f223d10c9b29d046859673778d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_cf383ace008a6b263bacc8b2540fc46da565ef95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_0c7c36c1d17554b5343c38da4fceabd9c3819513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_f1b629f566ffcca1f5f32f097b00344652e223cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3da657d85ea1e6c7f58e89254ba7dbbbeb00361e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_e4f31f625e2a88ce7bc379b9faabc2408495ee1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6358f79f16830f38d01631b23f81924559f5740c">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_77afce57b9b50ae7a86f7e6019381f5e89fda45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_fea67b01fd4845e7570d586774cd7ed8256014a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_10cebbcac4a896568809b6745f39ab21173de1dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4cccf544fc5ffff7f50be8051899ecc629e4b17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_3b3d18e0870c13443beb88a3fc717c0262a147d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Maikel/Android/ShoppingListAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4eea800f2b93b60526df41d9b1f5ef005b2e37a1/classes.dex" />
+    </item>
+
+</items>

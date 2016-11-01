@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SeriesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="information">Informatie</string>
+    <string name="add_viewed">Bekeken toevoegen</string>
+
+    <string name="add_serie">Serie toevoegen</string>
+    <string name="image_serie">Selecteer een afbeelding:</string>
+    <string name="name_serie">Naam van de serie:</string>
+    <string name="details_serie">Informatie van de serie:</string>
+    <string name="no_series">Er zijn nog geen series toegevoegd</string>
+    <string name="edit">Bewerken</string>
+    <string name="delete">Verwijderen</string>
+    <string name="do_you_want_to_delete">Wil je #name# verwijderen?</string>
+    <string name="is_deleted">is verwijderd.</string>
+    <string name="hint_add_series">Naam van de serie</string>
+    <string name="hint_add_series_description">Informatie..</string>
+
+    <string name="hint_add_watched">Geef aan welke aflevering van welk seizoen je het laatste hebt bekeken</string>
+    <string name="season">Seizoen</string>
+    <string name="episode">Aflevering</string>
+
+    <string name="add">Toevoegen</string>
+    <string name="save">Opslaan</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_add_watched">AddWatchedActivity</string>
+
+    <string name="recent_activity">Recent bekeken</string>
+    <string name="no_recents">Nog geen recente activiteiten</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageViewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_next">Next</string>
+    <string name="answer_correct">This is correct!</string>
+    <string name="answer_incorrect">This is incorrect...</string>
+
+    <string-array name="description_text">
+        <item>The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest
+           living terrestrial animal and the largest ruminant. Its species name refers to its camel-like
+           shape and its leopardlike colouring. Its chief distinguishing characteristics are its extremely
+           long neck and legs, its horn-like ossicones, and its distinctive coat patterns.</item>
+        <item>Frogs are a diverse and largely carnivorous group of shortbodied, tailless amphibians
+           composing the order Anura (Ancient Greek an-, without + oura, tail). The oldest fossil
+           "proto-frog" appeared in the early Triassic of Madagascar, but molecular clock dating suggests
+           their origins may extend further back to the Permian, 265 million years ago.</item>
+        <item>Monkeys are haplorhine ("dry-nosed") primates, a paraphyletic group generally possessing tails
+           and consisting of approximately 260 known living species. Many monkey species are tree-dwelling
+           (arboreal), although there are species that live primarily on the ground, such as baboons. Most
+           species are also active during the day (diurnal).
+        </item>
+    </string-array>
+</resources>

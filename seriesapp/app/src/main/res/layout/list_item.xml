@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:orientation="vertical"
+    android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+    android:paddingRight="?android:attr/listPreferredItemPaddingRight">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_centerHorizontal="true"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@color/colorPrimaryDark"
+            android:id="@+id/list_item_image"
+            android:layout_marginRight="10dp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/list_item_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dip"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textAppearance="?android:attr/textAppearanceListItem" />
+
+            <TextView
+                android:id="@+id/list_item_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textAppearance="@android:style/TextAppearance.Material.Small" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
